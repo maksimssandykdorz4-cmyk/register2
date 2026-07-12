@@ -5,7 +5,5 @@
     "target": "ES2023",
     "strict": true,
     "esModuleInterop": true,
-    "allowImportingTsExtensions": true,
-    "rewriteRelativeImportExtensions": true
   }
 }
